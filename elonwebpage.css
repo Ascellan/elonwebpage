@@ -1,0 +1,48 @@
+hr {
+  height: 2px;
+  background-color: peachpuff;
+  border-color: midnightblue;
+}
+h1, h2 {
+  font-family: Impact, serif;
+}
+h1, h2, p {
+  text-align: center;
+}
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+}
+h2 {
+  font-size: 30px;
+}
+.tribute {
+  font-style: italic;
+}
+.elonpage{
+  width: 80%;
+  background-color: rosybrown;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+.story {
+  text-align: left;
+  width: 75%;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+}
+body {
+  background-color: mistyrose;
+}
+.bottom-line {
+  margin-top: 25px;
+}
+footer {
+  font-size: 18px;
+}
